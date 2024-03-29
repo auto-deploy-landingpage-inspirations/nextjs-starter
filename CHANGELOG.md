@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/ixartz/nextjs-starter/compare/v1.9.0...v1.10.0) (2024-03-29)
+
+
+### Features
+
+* change navbar icon color ([79b7c2b](https://github.com/ixartz/nextjs-starter/commit/79b7c2bf5e7bca1ab82212de698733659262ee61))
+
 # [1.9.0](https://github.com/ixartz/nextjs-starter/compare/v1.8.0...v1.9.0) (2024-03-09)
 
 
